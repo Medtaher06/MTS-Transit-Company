@@ -1,0 +1,261 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,400;0,500;0,600;1,200;1,400;1,600&display=swap');
+
+
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+header{
+width:1378px;
+height:100px;
+backdrop-filter: blur(8px) saturate(195%);
+-webkit-backdrop-filter: blur(8px) saturate(195%);
+background-color: rgba(160, 160, 160, 0.46);
+border-radius: 12px;
+border: 1px solid rgba(209, 213, 219, 0.3);    
+ display: flex;
+position: static;
+margin-top: -1%;
+position: fixed  ;
+top: 0;
+z-index: 888;
+
+
+}
+
+a{
+    text-decoration: none;
+    font-weight: 600;
+   
+    
+}
+footer a:visited{
+color: white;
+}
+a:visited{
+    color: rgba(1, 9, 82, 0.712);
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-left: 32%;
+    list-style: none;
+
+
+}
+li{
+    margin: 13%;
+    font-size:medium;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+   
+
+}
+.imglogo{
+    display: flex;
+    justify-content: center;
+    margin-left: 47px;
+    
+    
+}
+main{
+    width:100%;
+    height:607px;
+    background-color:whitesmoke;
+    align-items:flex-start;
+    margin-top: -1%;
+    
+}
+.logo{
+    display: flex;
+    margin-left:5%;
+    border-radius: 15%;
+    
+}
+.logo1{
+    border-radius: 10%;
+    margin:4%;
+    
+}
+.Card{
+    width:40%;
+    height:600px;
+    background-color:gainsboro;
+    margin-left: 30%;
+    margin-top:17px;
+    border-radius: 10%;
+    display: flex;
+    backdrop-filter: blur(8px) saturate(195%);
+    -webkit-backdrop-filter: blur(8px) saturate(195%);
+    background-color: rgba(160, 160, 160, 0.46);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3); 
+    font-style: italic;
+ }
+ .paragraphe{
+     margin-left: -35%;
+     margin-top: 45%;
+     word-spacing: 8px;
+     display: flex;
+     
+
+ }
+.galeire{
+ margin: 1px;
+ margin-top:0px;
+
+}
+.partner{
+    width: 100%;
+    height:504px;
+    background-color:whitesmoke;
+    margin-top:-2px;
+}
+.partnerbar2{
+    width: 100%;
+    height:180px;
+    background-color:gray;
+
+ }
+ .contact{
+     width: 100%;
+     height:844PX;
+     background-color: whitesmoke;
+     margin: 5PX;
+     
+    
+    
+ }
+ .card4{
+     width: 30%;
+     height:580px;
+     background-color:gainsboro;
+     border-radius: 5%;
+     margin-left: 7%;
+     display: flex;
+    
+
+ }
+ .card5{
+     width:50%;
+     height:799px;
+     background-color:gainsboro;
+     border-radius: 5%;
+     margin-left: 47%;
+     margin-top:-850px;
+     
+ }
+ h3{
+    text-align: center;
+     font-family:Verdana, Geneva, Tahoma, sans-serif
+ }
+ .input{
+     margin-left: 3%;
+ }
+
+    
+
+ .boss{
+     border-radius:60%;
+     margin:30px;
+ }
+ .message{
+     margin-right: 30%;
+     text-align:center;
+     margin-left: -10%;
+     margin-top: 68px;
+     
+
+ }
+ .message2{
+    
+    font-size: small;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: -55%;
+    text-align:center;
+    margin-top: 33%;
+   
+ }
+ .job2{
+ margin: 60%;
+ text-align: center;
+
+ 
+ }
+ 
+ .welcomemessage777{
+     margin-top: 65%;
+     margin-left: -63%;
+ }
+.messagewel5{
+    margin: 10%;
+    display:flex;
+    
+}
+.imgservices{
+    width:100%;
+    height:645px;
+    background-color:whitesmoke;
+    margin-top: 4px;
+}
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container iframe{
+    left: 79px;;
+    top:15px;
+    height:80%;
+    width:90%;
+    position:absolute;
+    border-radius:5%;
+    }
+footer{
+    width:100%;
+    height:90px;
+    
+}
+.card{
+    height: 420px ;
+}
+
+.perfermance{
+    width: 100%;
+    height:160px;
+    display: flex;
+    background-color:white;
+    justify-content: space-evenly;
+    margin-top: 5px;
+
+}
+.card8{
+    width:20%;
+    height: 150px;
+    
+    border-radius: 2%;
+    backdrop-filter: blur(8px) saturate(195%);
+-webkit-backdrop-filter: blur(8px) saturate(195%);
+background-color: rgba(160, 160, 160, 0.46);
+border-radius: 12px;
+border: 1px solid rgba(209, 213, 219, 0.3); 
+font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    
+    
+}
+.perimg{
+    margin-left: 20%;
+}
+.perimg,h4{
+    margin-left: 10%;
+    text-align: center;
+}
+.pub{
+   display: inline;
+  
+}
+
